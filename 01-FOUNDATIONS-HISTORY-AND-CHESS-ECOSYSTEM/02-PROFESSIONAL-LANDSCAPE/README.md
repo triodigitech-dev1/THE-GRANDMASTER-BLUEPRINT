@@ -1,5 +1,29 @@
-# 02 PROFESSIONAL LANDSCAPE
+# Before You Read Any of This
 
-Develop content for **02 PROFESSIONAL LANDSCAPE** within Chapter 1: Foundations, History, and the Chess Ecosystem.
+You might be here because you play chess. You might be here because you don't, and someone told you there was more to it than you thought. Either way, there's a good chance you've never once considered that chess is something people do for a living — not just the playing, but the whole apparatus around it.
 
-Keep research, lesson explanations, examples, and supporting positions organized. Use clear filenames and retain source references. Verify variations and chess claims before publication.
+Most people picture a chess player as somebody sitting alone in a room, staring at a board. Maybe they picture a tournament hall with a hundred of those people, all silent, all staring. That's the visible part. It's maybe five percent of what chess actually is as an industry.
+
+What follows in these pages is the other ninety-five percent. It's a look at how chess functions as a working global system: who gets paid and how, how you climb from casual player to titled professional, what it takes to coach at the highest level, who enforces the rules when a championship is on the line, and how an organisation founded in Paris in 1924 ended up governing a sport played in almost every country on earth.
+
+If you're a player, some of this will be familiar and some of it will be things nobody ever told you — things you'd usually only find out by being inside the system for years. If you're not a player, that's fine. Nothing here assumes you know what a norm is, or what a K-factor does, or why anyone would care about the difference between an International Master and a FIDE Master. Everything gets explained.
+
+Here's what's waiting for you.
+
+**The career question comes first.** Chess as a job is a strange, precarious, multi-headed thing. There's prize money, but it's brutally concentrated at the top — a handful of players earn millions while most titled professionals scrape together a living from five or six different sources. So you'll read about appearance fees, sponsorships, coaching rates, streaming income, book deals, club contracts, simultaneous exhibitions, and the fact that the cost of _becoming_ a professional often runs into tens of thousands before you earn a cent back. It's honest about the odds. It doesn't pretend the path is easy, and it doesn't pretend it's impossible.
+
+**Then the climb.** The route from beginner to Grandmaster is genuinely mapped out — there's a rating ladder, there are title thresholds, there are specific tournament requirements called norms. You'll see the exact numbers: 2200 for Candidate Master, 2300 for FIDE Master, 2400 for International Master, 2500 for Grandmaster. You'll see what a norm actually demands, which is more than most people realise. And you'll meet players who made the climb — some at record speed, some through years of grinding, some who nearly quit along the way. The ratings are the easy part to describe. The section doesn't pretend the human side is simple.
+
+**Then the people who build players.** Coaching in chess is not a consolation prize for players who didn't make it. It's a profession with its own five-level certification ladder, its own methods, its own legends. You'll meet R.B. Ramesh, who walked away from a secure job at thirty-two to found a chess academy in Chennai, and who was in the middle of India going from one Grandmaster to eighty-four. You'll meet Peter Heine Nielsen, who has been part of eight world championship victories as a second — the quiet analyst working alongside the champion. You'll meet Vladimir Chuchelov, who drills every student through the same sixty-hour course before touching their openings. Different approaches, same underlying truth: behind almost every strong player is somebody who spent years thinking about how to make them better.
+
+**Then the rule-keepers.** Nobody thinks about arbiters until something goes wrong. This section makes the case that they're not background staff — they're the reason a tournament result means anything. There's a certification ladder for them too, running from National Arbiter to International Arbiter, with seminars and exams and tournament norms of its own. You'll meet Geurt Gijssen, who ran the rules commission for twenty years and arbitrated Kasparov–Karpov. Takis Nikolopoulos, who chief-arbitred three Olympiads and summed the job up as communicating clearly and diplomatically. Lothar Schmid, who held the 1972 Fischer–Spassky match together while the Cold War raged around it. And organisers have their own title system, because putting on a major tournament takes two years of bidding, negotiation, sponsorship, and logistics before a single move gets played.
+
+**And finally, the framework underneath everything.** FIDE — the International Chess Federation — is the body that ties all of this together. It runs the rating system, awards the titles, sets the tournament regulations, governs the world championship cycle, and divides the world into zones and continental associations. If you've ever wondered how a player in Kenya gets rated alongside a player in Norway, or how a world championship challenger is decided, this is where you find out. It's also where you'll see that chess has a genuine organisational structure — a general assembly, a council, a president, commissions, elections. It's a real institution, not a hobby club.
+
+---
+
+You don't need to read this in order. If you play and you're curious about turning it into something more, start with the career section. If you're a parent wondering how far your kid could go, the competitive track will tell you what the road actually looks like. If you're a strong player thinking about coaching, that section is yours. If you just want to understand how a 1,500-year-old board game became a global industry with payroll, politics, and paperwork, start with FIDE and work backwards.
+
+What all of it has in common is this: chess is not a small thing. It has structures, hierarchies, gatekeepers, and pathways. It has people who have given their lives to it in ways that have nothing to do with winning tournaments. It has problems — money problems, access problems, mental health problems — and it has people quietly working on those problems.
+
+The pages ahead are a map of that world. Take your time with them.
